@@ -1,9 +1,9 @@
 <h1>도형 공식 모음</h1>
-<br><br><br><li><a href="https://terms.naver.com/entry.naver?docId=3350278&cid=60210&categoryId=60210" target=_blank title="원의 공식">원의 공식 모음</a></li>
-<br><br><li><a href="https://terms.naver.com/entry.naver?docId=3350159&cid=60210&categoryId=60210" target=_blank title="구의 공식">구의 공식 모음</a></li>
-<br><br><li><a href="https://terms.naver.com/entry.naver?docId=3350240&cid=60210&categoryId=60210" target=_blank title="삼각형의 공식">삼각형의 공식 모음</a></li>
-<br><br><li><a href="https://terms.naver.com/entry.naver?docId=3350213&cid=60210&categoryId=60210" target=_blank title="사각형의 공식">사각형의 공식 모음</a></li>
-<br><br><li><a href="https://terms.naver.com/entry.naver?docId=3350171&cid=60210&categoryId=60210" target=_blank title="다각형의 공식">다각형의 공식 모음</a></li>
+<br><br><br><a href="https://terms.naver.com/entry.naver?docId=3350278&cid=60210&categoryId=60210" target=_blank title="원의 공식">원의 공식 모음</a>
+<br><br><a href="https://terms.naver.com/entry.naver?docId=3350159&cid=60210&categoryId=60210" target=_blank title="구의 공식">구의 공식 모음</a></li>
+<br><br><a href="https://terms.naver.com/entry.naver?docId=3350240&cid=60210&categoryId=60210" target=_blank title="삼각형의 공식">삼각형의 공식 모음</a>
+<br><br><a href="https://terms.naver.com/entry.naver?docId=3350213&cid=60210&categoryId=60210" target=_blank title="사각형의 공식">사각형의 공식 모음</a>
+<br><br><a href="https://terms.naver.com/entry.naver?docId=3350171&cid=60210&categoryId=60210" target=_blank title="다각형의 공식">다각형의 공식 모음</a>
 <br><br><br><br><h1><strong>도형</strong>이란?</h1>
 <h3>도형: 1. 그림의 모양이나 형태.
 <br>2. 점, 선, 면, 체 또는 그것들의 집합을 통틀어 이르는 말. 사각형, 원, 구 따위를 이른다.</h3>
