@@ -1,3 +1,5 @@
+<html>
+  <head>
 <h1>도형 공식 모음</h1>
 <br><br><br><a href="https://terms.naver.com/entry.naver?docId=3350278&cid=60210&categoryId=60210" target=_blank title="원의 공식">원의 공식 모음</a>
 <br><br><a href="https://terms.naver.com/entry.naver?docId=3350159&cid=60210&categoryId=60210" target=_blank title="구의 공식">구의 공식 모음</a>
@@ -17,3 +19,5 @@
 <h2>다각형이란?<h2>
 <h3>세 개 이상의 선분으로 둘러싸인 평면도형을 말하며, n개의 선분으로 이루어진 다각형은 n개의 변, n개의 꼭짓점, n(n－3)/2개의 대각선을 가진다.</h3>
 <br><br><br><h2>끝</h2>
+  </head>
+  </html>
