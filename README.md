@@ -6,10 +6,10 @@
 <br><br><a href="https://terms.naver.com/entry.naver?docId=3350240&cid=60210&categoryId=60210" target=_blank title="삼각형의 공식">삼각형의 공식 모음</a>
 <br><br><a href="https://terms.naver.com/entry.naver?docId=3350213&cid=60210&categoryId=60210" target=_blank title="사각형의 공식">사각형의 공식 모음</a>
 <br><br><a href="https://terms.naver.com/entry.naver?docId=3350171&cid=60210&categoryId=60210" target=_blank title="다각형의 공식">다각형의 공식 모음</a>
-<br><br><br><br><h2><strong>도형</strong>이란?</h2>
+<h2><strong>도형</strong>이란?</h2>
 <h3>도형: 1. 그림의 모양이나 형태.
 <br>2. 점, 선, 면, 체 또는 그것들의 집합을 통틀어 이르는 말. 사각형, 원, 구 따위를 이른다.</h3>
-<br><br><h2>원,구(이)란?</h2>
+<h2>원,구(이)란?</h2>
 <h3>원:평면에서 한 점으로부터 일정한 거리에 있는 점을 모두 모아 놓은 집합을 원이라고 한다.
 구:3차원공간에서, 한 정점(定點)에서 일정한 거리에 있는 점의 자취를 구면(球面)이라고 하고, 이 구면을 경계로 하는 입체를 구라 한다.</h3>
 <h2>삼각형이란?</h2>
